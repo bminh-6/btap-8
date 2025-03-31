@@ -1,0 +1,9 @@
+.item1{
+    background-color: rgb(231, 89, 112);
+    color:black;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 20px 50px;
+    margin:10px;
+    text-decoration: none;
+}

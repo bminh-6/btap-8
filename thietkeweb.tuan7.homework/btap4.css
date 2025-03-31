@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-rows: 100px auto 50px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    height: 100vh;
+    background-color:pink;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(229, 62, 90);
+    border: 1px solid white;
+    font-size: 18px;
+}

@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 60px 200px auto 60px;
+    gap: 5px;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.navbar {
+    background: #4afd92;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hero {
+    background: #db7989;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.services {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.service {
+    background: #ee8d38;
+    color: white;
+    flex: 1;
+    padding: 20px;
+}
+
+
+.footer {
+    background: #4dd2d6;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
