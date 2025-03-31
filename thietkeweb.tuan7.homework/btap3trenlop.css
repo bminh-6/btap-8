@@ -13,15 +13,15 @@ body {
 
 
 .header {
-    background-color: rgb(247, 164, 55);
+    background-color:antiquewhite;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 .menu {
-    background-color: rgb(141, 198, 230);
+    background-color: rgb(14, 112, 99);
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     color: rgb(250, 250, 250);
 }
 
@@ -35,7 +35,7 @@ body {
 
 .sidebar {
     flex: 1;
-    background-color: rgba(79, 233, 120, 0.372);
+    background-color: rgb(99, 80, 185);
     padding: 20px;
 }
 
@@ -49,7 +49,7 @@ body {
 .slider {
     flex:2;
     align-items: stretch ;
-    background-color: rgb(193, 59, 59);
+    background-color: rgba(193, 59, 59, 0.73);
     text-align: center;
     padding: 20px;
 }
@@ -71,7 +71,7 @@ body {
 
 .footer {
     display: flex;
-    background-color: rgb(151, 88, 210);
+    background-color:beige;
     text-align: center;
 }
 
@@ -90,5 +90,5 @@ body {
 .footer2 {
     flex: 1;
     padding: 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
 }

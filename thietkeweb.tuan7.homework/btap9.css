@@ -14,7 +14,7 @@
 }
 
 .navbar {
-    background: #4afd92;
+    background: #898989;
     color: white;
     display: flex;
     align-items: center;
@@ -23,7 +23,7 @@
 
 
 .hero {
-    background: #db7989;
+    background: #ed5770;
     color: white;
     display: flex;
     align-items: center;
@@ -37,7 +37,7 @@
 }
 
 .service {
-    background: #ee8d38;
+    background: #d07c32;
     color: white;
     flex: 1;
     padding: 20px;
@@ -45,7 +45,7 @@
 
 
 .footer {
-    background: #4dd2d6;
+    background: #797979;
     color: white;
     display: flex;
     align-items: center;
